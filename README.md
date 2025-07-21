@@ -2,6 +2,8 @@
 
 I'm Mugzx.
 
+[![Crayon-ShinChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugzx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mugzx&hide=markdown,html&layout=compact)
+
 ## contribute✍️
 
 <picture>
